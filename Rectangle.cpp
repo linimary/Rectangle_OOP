@@ -45,6 +45,10 @@ Rectangle::Rectangle(int width, int height, const string &colour) : Rectangle(wi
     this->colour = colour;
 }
 
+Rectangle::~Rectangle() {
+    cout << "Destructor called" << endl;
+}
+
 //Rectangle::Rectangle(const Rectangle &source) {
 //    cout << "Rectangle copied" << endl;
 //    this->width = source.width;
