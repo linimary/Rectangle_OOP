@@ -1,0 +1,23 @@
+# ninja log v5
+2	295	7129389937247514	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+2	346	7129386602569629	CMakeFiles/Rectangle_OOP.dir/Rectangle.cpp.obj	7be45456858a1994
+295	395	7129389938218385	Rectangle_OOP.exe	e7d9c4d30fdff4c9
+8	93	7129416289393780	CMakeFiles/Rectangle_OOP.dir/Person.cpp.obj	a44e9f1a7e9895fd
+19	330	7129416291765934	CMakeFiles/Rectangle_OOP.dir/TextBox.cpp.obj	d40e10d90ab21f25
+2	370	7129416292156298	CMakeFiles/Rectangle_OOP.dir/Rectangle.cpp.obj	7be45456858a1994
+13	394	7129416292416522	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+394	520	7129416293627634	Rectangle_OOP.exe	78805a75a014bbec
+7	97	7129445631858698	CMakeFiles/Rectangle_OOP.dir/Person.cpp.obj	a44e9f1a7e9895fd
+18	327	7129445634185937	CMakeFiles/Rectangle_OOP.dir/TextBox.cpp.obj	d40e10d90ab21f25
+13	414	7129445635036719	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+2	420	7129445635096958	CMakeFiles/Rectangle_OOP.dir/Rectangle.cpp.obj	7be45456858a1994
+420	529	7129445636146928	Rectangle_OOP.exe	78805a75a014bbec
+8	358	7129448780880959	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+2	369	7129448780991071	CMakeFiles/Rectangle_OOP.dir/Rectangle.cpp.obj	7be45456858a1994
+370	474	7129448782017033	Rectangle_OOP.exe	78805a75a014bbec
+2	292	7129449010063659	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+292	388	7129449010994497	Rectangle_OOP.exe	78805a75a014bbec
+3	308	7129449521939240	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+308	410	7129449522910125	Rectangle_OOP.exe	78805a75a014bbec
+2	294	7129449751625272	CMakeFiles/Rectangle_OOP.dir/main.cpp.obj	eebc9e5c115ca880
+294	390	7129449752545311	Rectangle_OOP.exe	78805a75a014bbec
